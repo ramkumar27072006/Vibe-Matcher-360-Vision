@@ -128,7 +128,7 @@ Average Similarity ≈ 0.78  Average Latency ≈ 2.1 s
  ├── product_embeddings_cache.json    # Cached embeddings (optional)
  └── /outputs                         # Visualizations & evaluation results
 ```
-
+Gemini API key /OpenAi key update soon...
 ---
 
 ## License
